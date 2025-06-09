@@ -2,4 +2,15 @@
     max-width: 1128px;
     border: 2px solid red;
     margin-inline: auto;
+    header{
+        img{
+            border-radius: 2.8res;
+            margin-bottom: 2.4res;
+            height: 66res;
+        }
+        p{
+            font-style: italic;
+            text-align: center;
+        }
+    }
 }
